@@ -1,0 +1,29 @@
+
+.logobox{
+    height: 50px;
+    float: left;
+}
+
+.headerbox{
+    height: 60px;
+    background-color: rgb(168, 168, 168);
+}
+
+.head{
+    height: 30px;
+    width: 150px;
+    float: left;
+    text-align: center;
+    color: brown;
+    font-style: oblique;
+    
+}
+
+.tc {
+    text-align: center;
+}
+
+.bgj {
+    background-color: #E9ECEF;
+}
+
